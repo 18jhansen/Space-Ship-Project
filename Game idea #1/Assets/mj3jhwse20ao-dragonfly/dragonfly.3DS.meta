@@ -1,0 +1,540 @@
+fileFormatVersion: 2
+guid: 70fb97649ba669c48b6bed512624d632
+timeCreated: 1486152786
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: cockpit
+    100002: Cylinder00
+    100004: Cylinder01
+    100006: //RootNode
+    100008: ejector se
+    100010: engine co0
+    100012: engine cow
+    100014: engine wa0
+    100016: engine wal
+    100018: exhaust di
+    100020: exhaust po
+    100022: front lan0
+    100024: front land
+    100026: front lg
+    100028: front whe0
+    100030: front whe1
+    100032: front whe2
+    100034: front whe3
+    100036: front whe4
+    100038: front whee
+    100040: front wing
+    100042: fuselage
+    100044: intrake ma
+    100046: Line032
+    100048: Line033
+    100050: Loft013
+    100052: needle con
+    100054: nose cone
+    100056: nose cone0
+    100058: pilot
+    100060: 'rear axle '
+    100062: rear brake
+    100064: rear cotte
+    100066: 'rear hose '
+    100068: rear hub l
+    100070: rear hub r
+    100072: rear land0
+    100074: rear landi
+    100076: rear righ0
+    100078: rear right
+    100080: rear shoc0
+    100082: rear shoc1
+    100084: rear shoc2
+    100086: rear shoc3
+    100088: rear shoc4
+    100090: rear shock
+    100092: rear stru0
+    100094: rear strut
+    100096: rear whee0
+    100098: rear whee1
+    100100: rear whee2
+    100102: rear wheel
+    100104: rear-lg
+    100106: Shape002
+    100108: Shape013
+    100110: Shape014
+    100112: Shape015
+    100114: Shape016
+    100116: Shape017
+    100118: Shape018
+    100120: Shape019
+    100122: Shape020
+    100124: Shape021
+    100126: Shape022
+    100128: Shape023
+    100130: Shape026
+    100132: Shape027
+    100134: Shape028
+    100136: Shape032
+    100138: Shape033
+    100140: Shape034
+    100142: Shape036
+    100144: Shape038
+    100146: t-fan bl10
+    100148: t-fan bl11
+    100150: t-fan bl12
+    100152: t-fan bl13
+    100154: t-fan bl14
+    100156: t-fan bl15
+    100158: t-fan bl16
+    100160: t-fan bla0
+    100162: t-fan bla1
+    100164: t-fan bla2
+    100166: t-fan bla3
+    100168: t-fan bla4
+    100170: t-fan bla5
+    100172: t-fan bla6
+    100174: t-fan bla7
+    100176: t-fan bla8
+    100178: t-fan bla9
+    100180: t-fan blad
+    100182: t-fan cone
+    100184: t-fan cow0
+    100186: t-fan cowl
+    100188: tail rudde
+    100190: windows le
+    100192: windows ri
+    100194: windscreen
+    100196: wing left
+    100198: wing right
+    400000: cockpit
+    400002: Cylinder00
+    400004: Cylinder01
+    400006: //RootNode
+    400008: ejector se
+    400010: engine co0
+    400012: engine cow
+    400014: engine wa0
+    400016: engine wal
+    400018: exhaust di
+    400020: exhaust po
+    400022: front lan0
+    400024: front land
+    400026: front lg
+    400028: front whe0
+    400030: front whe1
+    400032: front whe2
+    400034: front whe3
+    400036: front whe4
+    400038: front whee
+    400040: front wing
+    400042: fuselage
+    400044: intrake ma
+    400046: Line032
+    400048: Line033
+    400050: Loft013
+    400052: needle con
+    400054: nose cone
+    400056: nose cone0
+    400058: pilot
+    400060: 'rear axle '
+    400062: rear brake
+    400064: rear cotte
+    400066: 'rear hose '
+    400068: rear hub l
+    400070: rear hub r
+    400072: rear land0
+    400074: rear landi
+    400076: rear righ0
+    400078: rear right
+    400080: rear shoc0
+    400082: rear shoc1
+    400084: rear shoc2
+    400086: rear shoc3
+    400088: rear shoc4
+    400090: rear shock
+    400092: rear stru0
+    400094: rear strut
+    400096: rear whee0
+    400098: rear whee1
+    400100: rear whee2
+    400102: rear wheel
+    400104: rear-lg
+    400106: Shape002
+    400108: Shape013
+    400110: Shape014
+    400112: Shape015
+    400114: Shape016
+    400116: Shape017
+    400118: Shape018
+    400120: Shape019
+    400122: Shape020
+    400124: Shape021
+    400126: Shape022
+    400128: Shape023
+    400130: Shape026
+    400132: Shape027
+    400134: Shape028
+    400136: Shape032
+    400138: Shape033
+    400140: Shape034
+    400142: Shape036
+    400144: Shape038
+    400146: t-fan bl10
+    400148: t-fan bl11
+    400150: t-fan bl12
+    400152: t-fan bl13
+    400154: t-fan bl14
+    400156: t-fan bl15
+    400158: t-fan bl16
+    400160: t-fan bla0
+    400162: t-fan bla1
+    400164: t-fan bla2
+    400166: t-fan bla3
+    400168: t-fan bla4
+    400170: t-fan bla5
+    400172: t-fan bla6
+    400174: t-fan bla7
+    400176: t-fan bla8
+    400178: t-fan bla9
+    400180: t-fan blad
+    400182: t-fan cone
+    400184: t-fan cow0
+    400186: t-fan cowl
+    400188: tail rudde
+    400190: windows le
+    400192: windows ri
+    400194: windscreen
+    400196: wing left
+    400198: wing right
+    2300000: cockpit
+    2300002: Cylinder00
+    2300004: Cylinder01
+    2300006: ejector se
+    2300008: engine wa0
+    2300010: engine wal
+    2300012: exhaust po
+    2300014: front lan0
+    2300016: front land
+    2300018: front whe0
+    2300020: front whe1
+    2300022: front whe2
+    2300024: front whe3
+    2300026: front whe4
+    2300028: front whee
+    2300030: front wing
+    2300032: fuselage
+    2300034: intrake ma
+    2300036: Line032
+    2300038: Line033
+    2300040: Loft013
+    2300042: needle con
+    2300044: nose cone
+    2300046: nose cone0
+    2300048: pilot
+    2300050: 'rear axle '
+    2300052: rear brake
+    2300054: rear cotte
+    2300056: 'rear hose '
+    2300058: rear hub l
+    2300060: rear hub r
+    2300062: rear land0
+    2300064: rear landi
+    2300066: rear righ0
+    2300068: rear right
+    2300070: rear shoc0
+    2300072: rear shoc1
+    2300074: rear shoc2
+    2300076: rear shoc3
+    2300078: rear shoc4
+    2300080: rear shock
+    2300082: rear stru0
+    2300084: rear strut
+    2300086: rear whee0
+    2300088: rear whee1
+    2300090: rear whee2
+    2300092: rear wheel
+    2300094: Shape002
+    2300096: Shape013
+    2300098: Shape014
+    2300100: Shape015
+    2300102: Shape016
+    2300104: Shape017
+    2300106: Shape018
+    2300108: Shape019
+    2300110: Shape020
+    2300112: Shape021
+    2300114: Shape022
+    2300116: Shape023
+    2300118: Shape026
+    2300120: Shape027
+    2300122: Shape028
+    2300124: Shape032
+    2300126: Shape033
+    2300128: Shape034
+    2300130: Shape036
+    2300132: Shape038
+    2300134: t-fan bl10
+    2300136: t-fan bl11
+    2300138: t-fan bl12
+    2300140: t-fan bl13
+    2300142: t-fan bl14
+    2300144: t-fan bl15
+    2300146: t-fan bl16
+    2300148: t-fan bla0
+    2300150: t-fan bla1
+    2300152: t-fan bla2
+    2300154: t-fan bla3
+    2300156: t-fan bla4
+    2300158: t-fan bla5
+    2300160: t-fan bla6
+    2300162: t-fan bla7
+    2300164: t-fan bla8
+    2300166: t-fan bla9
+    2300168: t-fan blad
+    2300170: t-fan cone
+    2300172: t-fan cowl
+    2300174: tail rudde
+    2300176: windows le
+    2300178: windows ri
+    2300180: windscreen
+    2300182: wing left
+    2300184: wing right
+    3300000: cockpit
+    3300002: Cylinder00
+    3300004: Cylinder01
+    3300006: ejector se
+    3300008: engine wa0
+    3300010: engine wal
+    3300012: exhaust po
+    3300014: front lan0
+    3300016: front land
+    3300018: front whe0
+    3300020: front whe1
+    3300022: front whe2
+    3300024: front whe3
+    3300026: front whe4
+    3300028: front whee
+    3300030: front wing
+    3300032: fuselage
+    3300034: intrake ma
+    3300036: Line032
+    3300038: Line033
+    3300040: Loft013
+    3300042: needle con
+    3300044: nose cone
+    3300046: nose cone0
+    3300048: pilot
+    3300050: 'rear axle '
+    3300052: rear brake
+    3300054: rear cotte
+    3300056: 'rear hose '
+    3300058: rear hub l
+    3300060: rear hub r
+    3300062: rear land0
+    3300064: rear landi
+    3300066: rear righ0
+    3300068: rear right
+    3300070: rear shoc0
+    3300072: rear shoc1
+    3300074: rear shoc2
+    3300076: rear shoc3
+    3300078: rear shoc4
+    3300080: rear shock
+    3300082: rear stru0
+    3300084: rear strut
+    3300086: rear whee0
+    3300088: rear whee1
+    3300090: rear whee2
+    3300092: rear wheel
+    3300094: Shape002
+    3300096: Shape013
+    3300098: Shape014
+    3300100: Shape015
+    3300102: Shape016
+    3300104: Shape017
+    3300106: Shape018
+    3300108: Shape019
+    3300110: Shape020
+    3300112: Shape021
+    3300114: Shape022
+    3300116: Shape023
+    3300118: Shape026
+    3300120: Shape027
+    3300122: Shape028
+    3300124: Shape032
+    3300126: Shape033
+    3300128: Shape034
+    3300130: Shape036
+    3300132: Shape038
+    3300134: t-fan bl10
+    3300136: t-fan bl11
+    3300138: t-fan bl12
+    3300140: t-fan bl13
+    3300142: t-fan bl14
+    3300144: t-fan bl15
+    3300146: t-fan bl16
+    3300148: t-fan bla0
+    3300150: t-fan bla1
+    3300152: t-fan bla2
+    3300154: t-fan bla3
+    3300156: t-fan bla4
+    3300158: t-fan bla5
+    3300160: t-fan bla6
+    3300162: t-fan bla7
+    3300164: t-fan bla8
+    3300166: t-fan bla9
+    3300168: t-fan blad
+    3300170: t-fan cone
+    3300172: t-fan cowl
+    3300174: tail rudde
+    3300176: windows le
+    3300178: windows ri
+    3300180: windscreen
+    3300182: wing left
+    3300184: wing right
+    4300000: fuselage
+    4300002: nose cone
+    4300004: wing right
+    4300006: tail rudde
+    4300008: Shape002
+    4300010: Shape013
+    4300012: Shape014
+    4300014: Shape015
+    4300016: Shape016
+    4300018: Shape017
+    4300020: Shape018
+    4300022: Shape019
+    4300024: Shape020
+    4300026: Shape021
+    4300028: Shape022
+    4300030: Shape023
+    4300032: exhaust po
+    4300034: cockpit
+    4300036: needle con
+    4300038: wing left
+    4300040: engine wal
+    4300042: engine wa0
+    4300044: rear landi
+    4300046: rear land0
+    4300048: front wing
+    4300050: windows ri
+    4300052: windows le
+    4300054: windscreen
+    4300056: ejector se
+    4300058: pilot
+    4300060: front land
+    4300062: front lan0
+    4300064: intrake ma
+    4300066: t-fan blad
+    4300068: t-fan bla0
+    4300070: t-fan bla1
+    4300072: t-fan bla2
+    4300074: t-fan bla3
+    4300076: t-fan bla4
+    4300078: t-fan cone
+    4300080: t-fan bla5
+    4300082: t-fan bla6
+    4300084: t-fan bla7
+    4300086: t-fan bla8
+    4300088: t-fan bla9
+    4300090: t-fan cowl
+    4300092: t-fan bl10
+    4300094: t-fan bl11
+    4300096: t-fan bl12
+    4300098: t-fan bl13
+    4300100: t-fan bl14
+    4300102: t-fan bl15
+    4300104: t-fan bl16
+    4300106: Shape026
+    4300108: Shape027
+    4300110: Shape028
+    4300112: Shape032
+    4300114: Shape033
+    4300116: Shape034
+    4300118: Shape036
+    4300120: Shape038
+    4300122: nose cone0
+    4300124: rear right
+    4300126: rear wheel
+    4300128: rear hub r
+    4300130: rear strut
+    4300132: rear whee0
+    4300134: rear shoc0
+    4300136: rear shoc1
+    4300138: rear cotte
+    4300140: rear shoc2
+    4300142: rear righ0
+    4300144: front whee
+    4300146: front whe0
+    4300148: front whe1
+    4300150: Cylinder01
+    4300152: front whe2
+    4300154: front whe3
+    4300156: Line033
+    4300158: Line032
+    4300160: front whe4
+    4300162: Cylinder00
+    4300164: Loft013
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
